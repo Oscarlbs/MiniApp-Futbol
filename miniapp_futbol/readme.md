@@ -39,23 +39,24 @@ Listo!! El proyecto funcionará y podrás usar todas las funcionalidades!
 
 # Pantalla Principal 
 
-![Captura de pantalla (87)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/7eda29e8-e7ad-4302-9a12-69964a36b5a3)
+![Captura de pantalla (87)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/806d103e-279a-4941-a902-af871f32d4ee)
 
 # Busqueda de jugadores con botón para guardarlos
 
-![Captura de pantalla (88)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/7a56ab52-8f19-47cb-947e-93748c96e1ca)
+![Captura de pantalla (88)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/575517d6-74aa-4ca8-a470-bd0cad4d6579)
 
 #  Al accionar el botón 
 
-![Captura de pantalla (89)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/58026560-6373-4e2a-8ffd-7769116a4d4d)
+![Captura de pantalla (89)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/649063cc-698f-4bf1-9498-ac5ee2969d4f)
 
 #  Mis jugadores guardados
 
-![Captura de pantalla (90)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/f8c4f6e9-b4f2-424e-a5b2-820d3e461f10)
+![Captura de pantalla (90)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/05b875e9-10a8-4026-824a-47f1a9c8e0e8)
 
 #  Base de datos con los jugadores añadidos 
 
-![Captura de pantalla (91)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/8522c8e5-2546-46a7-8a0d-16f6e9e806b4)
+![Captura de pantalla (91)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/c39be684-1869-450f-ad6d-05b6e5a9bc34)
+
 
 
 

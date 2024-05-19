@@ -35,8 +35,28 @@ La página Guardar Jugadores muestra una lista de los jugadores guardados, con s
 5. Abrir el navegador e ir a http://localhost/miniapp_futbol_entrega/index.php.
 
 Listo!! El proyecto funcionará y podrás usar todas las funcionalidades!
-![Captura de pantalla (90)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/6e2f9792-91aa-4458-9454-9b596d585ad7)
-![Captura de pantalla (89)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/09615185-480b-44be-88cc-77b7b748afb8)
-![Captura de pantalla (88)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/617bd09a-29d9-4cf3-8a22-895731450e14)
-![Captura de pantalla (87)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/f18e03c4-08f6-450b-b766-98e624d598f6)
-![Captura de pantalla (91)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/ae0cbb17-10eb-458c-8470-2bfa50337183)
+
+# Pantalla Principal 
+
+![Captura de pantalla (87)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/7eda29e8-e7ad-4302-9a12-69964a36b5a3)
+
+# Busqueda de jugadores con botón para guardarlos
+
+![Captura de pantalla (88)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/7a56ab52-8f19-47cb-947e-93748c96e1ca)
+
+#  Al accionar el botón 
+
+![Captura de pantalla (89)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/58026560-6373-4e2a-8ffd-7769116a4d4d)
+
+#  Mis jugadores guardados
+
+![Captura de pantalla (90)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/f8c4f6e9-b4f2-424e-a5b2-820d3e461f10)
+
+#  Base de datos con los jugadores añadidos 
+
+![Captura de pantalla (91)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/8522c8e5-2546-46a7-8a0d-16f6e9e806b4)
+
+
+
+
+

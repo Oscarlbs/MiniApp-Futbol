@@ -35,3 +35,8 @@ La página Guardar Jugadores muestra una lista de los jugadores guardados, con s
 5. Abrir el navegador e ir a http://localhost/miniapp_futbol_entrega/index.php.
 
 Listo!! El proyecto funcionará y podrás usar todas las funcionalidades!
+![Captura de pantalla (90)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/6e2f9792-91aa-4458-9454-9b596d585ad7)
+![Captura de pantalla (89)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/09615185-480b-44be-88cc-77b7b748afb8)
+![Captura de pantalla (88)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/617bd09a-29d9-4cf3-8a22-895731450e14)
+![Captura de pantalla (87)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/f18e03c4-08f6-450b-b766-98e624d598f6)
+![Captura de pantalla (91)](https://github.com/Oscarlbs/MiniApp-Futbol/assets/91658943/ae0cbb17-10eb-458c-8470-2bfa50337183)

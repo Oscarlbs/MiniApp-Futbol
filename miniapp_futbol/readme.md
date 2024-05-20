@@ -33,7 +33,7 @@ La página Guardar Jugadores muestra una lista de los jugadores guardados, con s
 4. Clonar el proyecto en la raíz del servidor XAMPP. (Disco local/xampp/htdocs/...) Mueve la carpeta (miniapp_futbol) a esta ubicación.
 5. Abrir XAMPP y hacer clic en el botón de inicio. (Arrancar Apache y Mysql)
 6. Importar el archivo SQL desde la carpeta de base de datos al servidor XAMPP. (http://localhost/phpmyadmin/index.php) (Ahi crear una nueva base con el nombre futbol e importar el archivo sql del proyecto).
-7. Abrir el navegador e ir a http://localhost/miniapp_futbol_entrega/index.php.
+7. Abrir el navegador e ir a http://localhost/miniapp_futbol/index.php.
 
 Listo!! El proyecto funcionará y podrás usar todas las funcionalidades!
 
